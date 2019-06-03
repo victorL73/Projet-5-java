@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa18ae6-ff6a-4adb-bbad-6da9ed12480b" name="Default Changelist" comment="update" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java-Projet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/model/ModelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IGravity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/view/ViewTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Diamond.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/entity/mobile/DiamondTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/entity/PermeabilityTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Grass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>P</find>
+      <find>ITAL</find>
+      <find>8</find>
+      <find>845</find>
+      <find>die()</find>
+      <find>f1</find>
+      <find>Ord</find>
+      <find>heroMove</find>
+      <find>las</find>
+      <find>latest</find>
+      <find>moveleft</find>
+      <find>hero</find>
+      <find>hasMoved</find>
+      <find>getChar</find>
+      <find>observer</find>
+      <find>Iview</find>
+      <find>IBoulderDashview</find>
+      <find>create</find>
+      <find>order</find>
+      <find>SPEED</find>
+      <find>SPEEED</find>
+      <find>die</find>
+      <find>get</find>
+      <find>diamond</find>
+      <find>run()</find>
+      <find>UserOrder</find>
+      <find>symbol</find>
+      <find>characterX</find>
+      <find>isitfalling</find>
+      <find>isitfalli</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\noelm\IdeaProjects\Java-Projet\src\main\java\fr\exia\BoulderDash</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Diamond.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Dirt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/BrokenDirt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/DitchRightTurnRight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Door.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/MotionlessElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/MotionlessElementsFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Rock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IMobile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/BoulderDashView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/motionless/Rock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IBoulderDashController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IBoulderDashView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IGravity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IOrderPerformer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IPermeability.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/UserOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/controller/BoulderDashController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Alive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/MobileEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/AliveORDead.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Monster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Grass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Character.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/EntityFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Entity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Permeability.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Map.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/model/DAOLevel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/ViewPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/ViewFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/BoulderDashMAIN.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jpublankjavaproject.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/controller/BoulderDashMAINControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/controller/BoulderDashMAINControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/controller/BoulderDashControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/entity/mobile/DiamondTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/model/ModelTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/view/ViewTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/entity/mobile/GrassTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="2087" />
+    <option name="y" value="103" />
+    <option name="width" value="1312" />
+    <option name="height" value="882" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet-5-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet-5-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java-Projet-5-CESI" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.exia.BoulderDash.view" />
+      <recent name="fr.exia.BoulderDash.model" />
+      <recent name="fr.exia.BoulderDash.entity.mobile" />
+      <recent name="fr.exia.BoulderDash.controller" />
+      <recent name="fr.exia.insanevehicles.tests" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\noelm\IdeaProjects\Java-Projet\src\main\resources" />
+      <recent name="C:\Users\Xxvic\IdeaProjects\Java-Projet\src\main\resources\libs" />
+      <recent name="C:\Users\Xxvic\IdeaProjects\Java-Projet\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BoulderDashMAIN">
+    <configuration name="BoulderDash (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exia.BoulderDash.BoulderDash" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exia.BoulderDash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoulderDash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exia.BoulderDash.BoulderDash" />
+      <module name="Java-Projet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exia.BoulderDash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoulderDashMAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.exia.BoulderDash.BoulderDashMAIN" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.exia.BoulderDash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoulderDashControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.BoulderDashControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoulderDashTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Projet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BoulderDashTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BoulderDash" />
+      <item itemvalue="Application.BoulderDash (1)" />
+      <item itemvalue="Application.BoulderDashMAIN" />
+      <item itemvalue="JUnit.BoulderDashTest" />
+      <item itemvalue="JUnit.BoulderDashControllerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BoulderDashMAIN" />
+        <item itemvalue="JUnit.BoulderDashControllerTest" />
+        <item itemvalue="Application.BoulderDash (1)" />
+        <item itemvalue="Application.BoulderDash" />
+        <item itemvalue="JUnit.BoulderDashTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa18ae6-ff6a-4adb-bbad-6da9ed12480b" name="Default Changelist" comment="" />
+      <created>1558699983024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558699983024</updated>
+      <workItem from="1558699986473" duration="14885000" />
+      <workItem from="1558943328863" duration="14354000" />
+      <workItem from="1558960406680" duration="61000" />
+      <workItem from="1558960495054" duration="17000" />
+      <workItem from="1558960535150" duration="263000" />
+      <workItem from="1558960876023" duration="31000" />
+      <workItem from="1558960926039" duration="160000" />
+      <workItem from="1558961094360" duration="43000" />
+      <workItem from="1558961194184" duration="107000" />
+      <workItem from="1558961943106" duration="1144000" />
+      <workItem from="1558963123588" duration="1366000" />
+      <workItem from="1558964820257" duration="4105000" />
+      <workItem from="1559026124315" duration="25934000" />
+      <workItem from="1559488421849" duration="24000" />
+      <workItem from="1559493573797" duration="5226000" />
+      <workItem from="1559512489117" duration="23000" />
+      <workItem from="1559544880112" duration="5928000" />
+      <workItem from="1559554984976" duration="12235000" />
+      <workItem from="1559572502937" duration="888000" />
+    </task>
+    <task id="LOCAL-00001" summary="test2">
+      <created>1558943464676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558943464676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="contract">
+      <created>1558944245938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558944245938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="entity">
+      <created>1558944370090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558944370090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="entity">
+      <created>1558948442476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558948442476</updated>
+    </task>
+    <task id="LOCAL-00005" summary="entity">
+      <created>1558949414029</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558949414029</updated>
+    </task>
+    <task id="LOCAL-00006" summary="entity">
+      <created>1558949838781</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558949838781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Model">
+      <created>1558950202762</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558950202762</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tests">
+      <created>1558951295729</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558951295729</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tests">
+      <created>1558956163171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558956163171</updated>
+    </task>
+    <task id="LOCAL-00010" summary="less scroll">
+      <created>1558958276777</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558958276777</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add showboard and update of controller">
+      <created>1558958567557</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558958567557</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change name">
+      <created>1558959164085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558959164085</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change name to BoulderDash">
+      <created>1558959930437</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558959930437</updated>
+    </task>
+    <task id="LOCAL-00014" summary="change name to BoulderDash">
+      <created>1558960067865</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558960067865</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1558960228165</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558960228165</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1558963288169</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558963288170</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1559032208384</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1559032208384</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1559035745093</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1559035745093</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1559052520095</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1559052520095</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update">
+      <created>1559053411933</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1559053411933</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update">
+      <created>1559054551818</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1559054551818</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update">
+      <created>1559054719632</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1559054719632</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="blocksTest - 2019.05.27 at 11h 57m 04s.xml">
+      <configuration name="blocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MobileTest - 2019.05.27 at 11h 57m 45s.xml">
+      <configuration name="MobileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MobileTest - 2019.05.27 at 11h 58m 04s.xml">
+      <configuration name="MobileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsaneVehiclesModelTest - 2019.05.27 at 11h 58m 13s.xml">
+      <configuration name="InsaneVehiclesModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DAOEntityTest - 2019.05.27 at 11h 58m 53s.xml">
+      <configuration name="DAOEntityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBConnectionTest - 2019.05.27 at 11h 59m 13s.xml">
+      <configuration name="DBConnectionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBPropertiesTest - 2019.05.27 at 12h 00m 13s.xml">
+      <configuration name="DBPropertiesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InsaneVehiclesTest - 2019.05.27 at 12h 21m 01s.xml">
+      <configuration name="InsaneVehiclesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoulderDashControllerTest - 2019.06.03 at 15h 43m 47s.xml">
+      <configuration name="BoulderDashControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoulderDashControllerTest - 2019.06.03 at 15h 59m 42s.xml">
+      <configuration name="BoulderDashControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92549000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2087" y="103" width="1312" height="882" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49753696" visible="true" weight="0.29392973" />
+      <window_info id="Structure" order="1" sideWeight="0.50176054" side_tool="true" weight="0.20872483" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50246304" side_tool="true" weight="0.25161812" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49573562" weight="0.3243968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6727079" weight="0.29758713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32707775" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.32707775" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3272921" side_tool="true" weight="0.28556594" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914712" weight="0.24664879" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.047923323" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49753696" visible="true" weight="0.16311301" />
+      <window_info id="Structure" order="1" sideWeight="0.50176054" side_tool="true" weight="0.20872483" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50246304" side_tool="true" weight="0.25161812" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49731544" weight="0.32573727" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.67315435" weight="0.28284183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32707775" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932885" weight="0.32707775" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3272921" side_tool="true" weight="0.28245068" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49261746" weight="0.24798928" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.015991472" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test2" />
+    <MESSAGE value="contract" />
+    <MESSAGE value="entity" />
+    <MESSAGE value="Model" />
+    <MESSAGE value="tests" />
+    <MESSAGE value="less scroll" />
+    <MESSAGE value="add showboard and update of controller" />
+    <MESSAGE value="change name" />
+    <MESSAGE value="change name to BoulderDash" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Diamond.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Dirt.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/DitchRightTurnRight.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Door.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/MotionlessElement.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/MotionlessElementsFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Obstacle.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/Rock.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IElement.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/element/motionless/BrokenDirt.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IMobile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/BoulderDashView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/motionless/Rock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IBoulderDashView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IBoulderDashController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IOrderPerformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/UserOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Alive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="5" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/MobileEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IPermeability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/AliveORDead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/EntityFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Permeability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/ViewFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/ViewPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jpublankjavaproject.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/model/DAOLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="91" selection-start-line="15" selection-start-column="91" selection-end-line="15" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/BoulderDashMAIN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/controller/BoulderDashController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2924">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="683" column="21" selection-start-line="683" selection-start-column="21" selection-end-line="683" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/controller/BoulderDashControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/entity/mobile/GrassTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/model/ModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/contract/IGravity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/view/ViewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fr/exia/BoulderDash/entity/mobile/DiamondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/entity/PermeabilityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/BoulderDash/entity/mobile/Grass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java-Projet</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.39</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
