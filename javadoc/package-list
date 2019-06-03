@@ -1,0 +1,12 @@
+
+entity
+fr.exia.BoulderDash
+fr.exia.BoulderDash.contract
+fr.exia.BoulderDash.controller
+fr.exia.BoulderDash.entity
+fr.exia.BoulderDash.entity.mobile
+fr.exia.BoulderDash.entity.motionless
+fr.exia.BoulderDash.model
+fr.exia.BoulderDash.view
+model
+view

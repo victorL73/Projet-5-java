@@ -1,0 +1,53 @@
+package fr.exia.BoulderDash.controller;
+
+import fr.exia.BoulderDash.entity.Map;
+import fr.exia.BoulderDash.entity.mobile.Hero;
+import org.junit.Before;
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+public class BoulderDashControllerTest<OutOfMapException extends Throwable> {
+    int X = 5;
+    int Y = 0 ;
+    BoulderDashController test = new BoulderDashController(null, null);
+
+    @Before
+    public void setUp() {
+        Hero hero = new Hero();
+        Map map = new Map(10, 10);
+        test.setHeroX(X);
+        test.setHeroY(Y);
+    }
+
+   /* @Test
+    public Hero GetHeroX() throws OutOfMapException {
+        //assertFalse(X>10);
+        //{ || X < this.GetHeroX()
+        if (X > 10) {
+            new OutOfMapException;
+            system.out.println("X out of the map Exception");
+        } else {
+            return HeroX;
+        }
+
+
+        //throw new AlsCustomException("Out of map exception ...");
+    }
+*/
+    @Test
+    public void setHeroX() {
+    }
+
+    @Test
+    public void testGetHeroY() {
+        assertTrue(0 <= Y && 10 >= Y);
+        assertTrue(0 <= X && 10 >= X);
+
+
+    }
+
+    @Test
+    public void setHeroY() {
+    }
+}
